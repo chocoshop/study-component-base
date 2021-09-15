@@ -5,3 +5,9 @@ export function TestComponent() {
         <div>Hello from npm package</div>
     );
 }
+
+export function Test2() {
+    return (
+        <div>Hello test2 from npm package</div>
+    );
+}
