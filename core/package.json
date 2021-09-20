@@ -1,5 +1,0 @@
-{
-    "sideEffects": false,
-    "module": ".button.js",
-    "typings": "./index.d.ts"
-  }
