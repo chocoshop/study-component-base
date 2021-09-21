@@ -1,0 +1,13 @@
+.hamburger-menu__wrapper {
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.hamburger-menu__line {
+    height: 4px;
+    display: block;
+    background-color: #000;
+    margin: 6px 0;
+}
