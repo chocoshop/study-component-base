@@ -16,5 +16,5 @@ export const Primary = Template.bind({});
 Primary.args = {
     primary: true,
     bg_color: 'blue',
-    text: 'ビジネス・学習',
+    text: ' ビジネス・学習',
 };

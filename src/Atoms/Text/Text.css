@@ -1,0 +1,19 @@
+.text-black {
+    color: #000;
+}
+
+.text-white {
+    color: #FFF;
+}
+
+.text-small {
+    font-size: 0.7rem;
+}
+
+.text-middle {
+    font-size: 1.0rem;
+}
+
+.text-large {
+    font-size: 1.2rem;
+}
