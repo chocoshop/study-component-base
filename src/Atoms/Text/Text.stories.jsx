@@ -15,4 +15,14 @@ Primary.args = {
     text: 'text..text...',
     size: 'normal',
     color: 'black',
+    weight: 'normal'
+};
+
+export const Secondary = Template.bind({});
+Secondary.args = {
+    primary: false,
+    text: 'text..text...',
+    size: 'normal',
+    color: 'black',
+    weight: 'bold'
 };
