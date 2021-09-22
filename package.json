@@ -8,7 +8,7 @@
     "build": "babel src --out-dir core",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "make": "mkdir $APP_PATH/src/$npm_config_dir && touch $APP_PATH/src/$npm_config_dir/$npm_config_file.js $APP_PATH/src/$npm_config_dir/$npm_config_file.stories.js"
+    "make": "mkdir $APP_PATH/src/$npm_config_dir && touch $APP_PATH/src/$npm_config_dir/$npm_config_file.js $APP_PATH/src/$npm_config_dir/$npm_config_file.stories.jsx"
   },
   "repository": {
     "type": "git",
